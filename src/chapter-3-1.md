@@ -1,5 +1,4 @@
-Identifying Your Leadership Goals and Objectives for Optimal Performance and Success
-=======================================================================================================================================================
+
 
 Identifying your leadership goals and objectives is critical for successful AI-enabled leadership development. Here are some key steps to take when identifying your leadership goals and objectives.
 

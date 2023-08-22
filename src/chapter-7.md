@@ -1,5 +1,4 @@
-Chapter 7: Evaluating the Impact of AI on Leadership Development
-================================================================
+
 
 As organizations adopt AI-enabled leadership development programs, it is important to evaluate their impact. This chapter will discuss how to measure the ROI and effectiveness of AI implementation in leadership development practice, as well as how to identify key performance metrics and goals for AI-enabled leadership skills enhancement.
 

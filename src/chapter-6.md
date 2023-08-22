@@ -1,5 +1,4 @@
-Chapter 6: The Impact of AI on Leadership Development
-=====================================================
+
 
 AI technology is having a significant impact on leadership development. Here are some ways in which AI is transforming the field:
 

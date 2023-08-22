@@ -1,5 +1,4 @@
-Building a High-performing Team with AI-Enabled Talent Management and Collaboration
-===============================================================================================================================================================
+
 
 AI-enabled talent management and collaboration can help organizations build high-performing teams and enhance leadership skills. This chapter will discuss AI strategies for leadership development and skills enhancement, including building a high-performing team with AI-enabled talent management and collaboration.
 

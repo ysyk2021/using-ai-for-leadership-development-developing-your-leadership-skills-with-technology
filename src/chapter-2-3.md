@@ -1,5 +1,4 @@
-Tools and Platforms for AI-Enabled Leadership Development and Skills Training
-================================================================================================================================================
+
 
 There are many tools and platforms available for AI-enabled leadership development and skills training. Here are some examples:
 

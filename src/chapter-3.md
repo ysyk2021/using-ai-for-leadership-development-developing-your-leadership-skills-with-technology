@@ -1,5 +1,4 @@
-Chapter 3: Getting Started with AI-Enabled Leadership Development
-=================================================================
+
 
 Getting started with AI-enabled leadership development requires a strategic approach. Here are some key steps to take when implementing AI in your leadership development strategy.
 
