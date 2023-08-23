@@ -1,5 +1,4 @@
 
-
 Continuous learning is essential for developing high-performing leaders. With AI-enabled personalized training and development plans, leaders can receive ongoing feedback and coaching, allowing them to make continuous improvements over time.
 
 Personalized Training and Development Plans

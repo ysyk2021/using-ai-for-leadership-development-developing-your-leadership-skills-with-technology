@@ -1,5 +1,4 @@
 
-
 As organizations adopt AI-enabled leadership development programs, it is essential to evaluate their impact on leadership skills enhancement. This chapter will discuss how to identify key performance metrics and goals for evaluating the impact of AI on leadership development.
 
 Identifying Key Performance Metrics for Evaluating the Impact of AI on Leadership Development

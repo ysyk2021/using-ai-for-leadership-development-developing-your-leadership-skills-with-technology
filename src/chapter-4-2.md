@@ -1,5 +1,4 @@
 
-
 AI techniques are transforming the way organizations assess and develop their leaders. In addition to predictive analytics and cognitive computing, AI can also be used to provide coaching and feedback to leaders, enhancing their effectiveness and communication skills.
 
 AI-Enabled Coaching

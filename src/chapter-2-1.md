@@ -1,5 +1,4 @@
 
-
 Understanding AI technology is essential for effective leadership development. Here are some basic concepts and processes of AI algorithms for leadership assessment and development.
 
 Data Mining

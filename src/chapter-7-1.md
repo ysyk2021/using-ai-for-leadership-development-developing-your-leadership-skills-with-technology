@@ -1,5 +1,4 @@
 
-
 As organizations adopt AI-enabled leadership development programs, it is essential to evaluate their return on investment (ROI) and effectiveness. This chapter will discuss how to measure the ROI and effectiveness of AI implementation in leadership development practice.
 
 Measuring the ROI of AI Implementation in Leadership Development Practice
