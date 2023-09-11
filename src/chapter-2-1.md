@@ -1,5 +1,4 @@
-Chapter 2: Basic Concepts and Processes of AI Algorithms for Leadership Assessment and Development
-==================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the fundamental concepts and processes of AI algorithms as they pertain to leadership assessment and development. Understanding these core principles is essential for leaders looking to harness the potential of AI in their leadership journey.
 

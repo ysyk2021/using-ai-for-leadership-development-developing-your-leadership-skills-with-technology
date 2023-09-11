@@ -1,5 +1,4 @@
-Chapter 4: Challenges and Risks of AI Adoption in Leadership Development
-========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various challenges and risks associated with the adoption of AI in leadership development. While AI offers tremendous potential to enhance leadership skills, it is essential to be aware of and address these challenges to ensure a successful implementation.
 

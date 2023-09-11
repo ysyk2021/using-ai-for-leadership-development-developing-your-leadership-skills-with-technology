@@ -1,5 +1,4 @@
-Chapter 4: Identifying Key Performance Metrics and Goals for AI-Enabled Leadership Skills Enhancement
-=====================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the process of identifying key performance metrics and goals for AI-enabled leadership skills enhancement. Establishing clear metrics and goals is essential for assessing the effectiveness of AI-driven leadership development initiatives and measuring the progress of leaders on their journey to becoming more effective and influential.
 

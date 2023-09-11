@@ -1,5 +1,4 @@
-Chapter 7: Measuring the ROI and Effectiveness of AI Implementation in Leadership Development Practice
-======================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the crucial aspects of measuring the Return on Investment (ROI) and effectiveness of AI implementation in leadership development practice. Understanding how to assess the impact of AI is essential for leaders and organizations striving to optimize their leadership development initiatives.
 

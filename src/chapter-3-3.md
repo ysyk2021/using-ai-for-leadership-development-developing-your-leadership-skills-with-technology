@@ -1,5 +1,4 @@
-Chapter 3: Creating a Customized Roadmap for AI Implementation in Your Leadership Development Strategy
-======================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the process of crafting a customized roadmap for AI implementation in your leadership development strategy. The journey to leveraging AI effectively in leadership development begins with a well-defined plan that aligns with your organization's unique goals and needs.
 

@@ -1,5 +1,4 @@
-Chapter 5: Strengthening Your Emotional Intelligence and Resilience with AI-Enabled Mental Health and Well-being Support
-========================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the pivotal role of Artificial Intelligence (AI) in enhancing emotional intelligence and resilience for leaders through AI-enabled mental health and well-being support. Emotional intelligence and resilience are vital attributes for effective leadership, and AI can play a significant role in nurturing these qualities.
 

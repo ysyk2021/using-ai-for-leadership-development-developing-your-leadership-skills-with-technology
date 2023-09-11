@@ -1,5 +1,4 @@
-Chapter 5: Enhancing Your Leadership Effectiveness and Communication with AI-Enabled Coaching and Feedback
-==========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how Artificial Intelligence (AI) can be harnessed to elevate leadership effectiveness and communication through the provision of AI-enabled coaching and feedback. These technologies offer leaders personalized guidance, continuous improvement opportunities, and enhanced communication skills.
 

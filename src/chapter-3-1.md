@@ -1,5 +1,4 @@
-Chapter 1: Identifying Your Leadership Goals and Objectives for Optimal Performance and Success
-===============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this opening chapter, we will explore the critical process of identifying your leadership goals and objectives to pave the way for optimal performance and success in the context of AI-enabled leadership development.
 

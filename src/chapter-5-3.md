@@ -1,5 +1,4 @@
-Chapter 6: Building a High-Performing Team with AI-Enabled Talent Management and Collaboration
-==============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how Artificial Intelligence (AI) can be harnessed to build and manage high-performing teams by optimizing talent management processes and enhancing collaboration. Leveraging AI in talent management and team collaboration is critical for modern leaders aiming to achieve organizational success.
 

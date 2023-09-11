@@ -1,5 +1,4 @@
-Chapter 2: Selecting the Right AI Tools and Platforms for Your Leadership Development Needs
-===========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the process of selecting the right AI tools and platforms for your leadership development needs. Choosing the appropriate AI solutions is essential to effectively harness technology in enhancing leadership skills.
 

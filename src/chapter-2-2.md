@@ -1,5 +1,4 @@
-Chapter 3: Different Types of AI Techniques and Applications for Leadership Management and Improvement
-======================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore various types of AI techniques and their applications in leadership management and improvement. Understanding these diverse approaches to AI is essential for leaders aiming to harness technology for their professional development.
 

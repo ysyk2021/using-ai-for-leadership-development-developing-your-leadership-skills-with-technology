@@ -1,5 +1,4 @@
-Chapter 5: Enabling Data-Driven Decision-Making and Strategy Execution with AI-Enabled Forecasting and Simulation
-=================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how Artificial Intelligence (AI) plays a pivotal role in enhancing leadership development by enabling data-driven decision-making and strategy execution through forecasting and simulation. These AI-powered tools empower leaders to make informed choices, optimize strategies, and achieve their leadership goals more effectively.
 
